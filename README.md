@@ -1,5 +1,6 @@
 ### Hey 👋,This is Kunal Joshi
 I am currently pursuing Bachelor's in Computer Science and Engineering from G.H.Raisoni Institute of Business Management Jalgaon
+
 <!-- 
 **Kunal287/Kunal287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
