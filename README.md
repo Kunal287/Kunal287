@@ -1,15 +1,31 @@
-### Hey 👋,This is Kunal Joshi
-I am currently pursuing Bachelor's in Computer Science and Engineering from G.H.Raisoni Institute of Business Management Jalgaon
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/USERNAME"
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+     Hey 👋,This is Kunal Joshi
+<div>     
+      I am currently pursuing Bachelor's in Computer Science and Engineering from G.H.Raisoni Institute of Business Management Jalgaon
+</div>  
+   <div>
+  <a href="https://www.sitepoint.com/github-profile-readme/https://www.linkedin.com/in/kunal-joshi-68b3421bb">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.sitepoint.com/github-profile-readme/your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.sitepoint.com/github-profile-readme/your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
 
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/USERNAME"
-
+### :woman_technologist: About Me :
+:zap: In my free time, I solve problems on GeeksforGeeks and read Books
+- :mailbox:[![Mail Badge](https://img.shields.io/badge/-KunalJoshi-blue?style=flat&logo=Mail&logoColor=white)](kunaljoshi287@gmail.com)
+- How to reach me
+- : [![Linkedin Badge](https://img.shields.io/badge/-KunalJoshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-joshi-68b3421bb)
 <!-- 
 **Kunal287/Kunal287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
