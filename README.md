@@ -1,12 +1,14 @@
 ### Hey 👋,This is Kunal Joshi
 I am currently pursuing Bachelor's in Computer Science and Engineering from G.H.Raisoni Institute of Business Management Jalgaon
-icon = "linkedin"
+[[params.social]]
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/Kunal Joshi"
+    link = "//linkedin.com/in/USERNAME"
 
+ [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/Kunal287"
+    link = "//github.com/USERNAME"
 
 <!-- 
 **Kunal287/Kunal287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
