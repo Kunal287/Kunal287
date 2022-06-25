@@ -9,9 +9,7 @@
   <a href="https://www.linkedin.com/in/kunal-joshi-68b3421bb">
     <img src="https://img.shields.io/badge/Kunal Joshi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.sitepoint.com/github-profile-readme/your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+
   <a href="https://twitter.com/KunalJoshi287">
     <img src="https://img.shields.io/badge/KunalJoshi287-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
