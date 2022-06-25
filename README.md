@@ -17,7 +17,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-_______________________________________________________________________________________________________________________________________________________
+ _______________________________________________________________________________________________________________________________________________________
 
 ### :woman_technologist: About Me :
 :zap: In my free time, I solve problems on GeeksforGeeks and read Books
