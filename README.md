@@ -17,11 +17,11 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+</hr>
 
 ### :woman_technologist: About Me :
 :zap: In my free time, I solve problems on GeeksforGeeks and read Books
-- :mailbox:[![Mail Badge](https://img.shields.io/badge/-KunalJoshi-blue?style=flat&logo=Mail&logoColor=white)](kunaljoshi287@gmail.com)
+- : [![Mail Badge](https://img.shields.io/badge/-kunaljoshi287@gmail.com-blue?style=flat&logo=Mail&logoColor=white)]
 - How to reach me
 - : [![Linkedin Badge](https://img.shields.io/badge/-KunalJoshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-joshi-68b3421bb)
 <!-- 
