@@ -6,7 +6,7 @@
       I am currently pursuing Bachelor's in Computer Science and Engineering from G.H.Raisoni Institute of Business Management Jalgaon
 </div>  
    <div>
-  <a href="https://www.sitepoint.com/github-profile-readme/https://www.linkedin.com/in/kunal-joshi-68b3421bb">
+  <a href="https://www.linkedin.com/in/kunal-joshi-68b3421bb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.sitepoint.com/github-profile-readme/your-youtube-URL">
