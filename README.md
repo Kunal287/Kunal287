@@ -20,7 +20,7 @@
  _________________________________________________________________________________________________________________________________________________
 
 ### :woman_technologist: About Me :
-:zap: In my free time, I solve problems on GeeksforGeeks and read Books
+:zap: In my free time, I solve problems on Codechef and read Books
 - How to reach me
 - ![Gmail](https://img.shields.io/badge/kunaljoshi287@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - [![Linkedin Badge](https://img.shields.io/badge/-KunalJoshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-joshi-68b3421bb)
