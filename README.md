@@ -32,7 +32,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-3670A0?style=for-the-badge&logo=kotlin&logoColor=#800080)
-![Javascript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Javascript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 <!-- 
 **Kunal287/Kunal287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
