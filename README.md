@@ -19,14 +19,14 @@
 </div>
  _________________________________________________________________________________________________________________________________________________
 
-### :About Me :
+### About Me :
 :zap: In my free time, I solve problems on Codechef and read Books
 - How to reach me
 - ![Gmail](https://img.shields.io/badge/kunaljoshi287@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - [![Linkedin Badge](https://img.shields.io/badge/-KunalJoshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-joshi-68b3421bb)
  _______________________________________________________________________________________________________________________________________________________
 
-### :hammer_and_wrench: Languages and Tools :
+### hammer_and_wrench: Languages and Tools :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
