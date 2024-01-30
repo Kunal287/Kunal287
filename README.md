@@ -5,15 +5,19 @@
 <div>     
       I am a Fresher and currently upskilling myself.I love working with different languages such as Java,Python,Kotlin and have developed some projects on it have a look at it by visiting my repositories:)
 </div>  
- 
+ <div>
+   
+ </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
  _________________________________________________________________________________________________________________________________________________
 
 ### About Me :
-:zap: I love developing Android Apps and Reading Books
-- How to reach me
+:zap: Java,Python are some of my favourite programming languages.
+:zap: In my free time I love reading books,listening podcasts or playing badminton.
+
+### How to reach me:
 - ![Gmail](https://img.shields.io/badge/kunaljoshi287@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - [![Linkedin Badge](https://img.shields.io/badge/-KunalJoshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-joshi-68b3421bb)
 -  <a href="https://twitter.com/KunalJoshi287">
