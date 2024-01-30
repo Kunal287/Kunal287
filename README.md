@@ -5,14 +5,8 @@
 <div>     
       I am a Fresher and currently upskilling myself.I love working with different languages such as Java,Python,Kotlin and have developed some projects on it have a look at it by visiting my repositories:)
 </div>  
-   <div align=center>
-  <a href="https://www.linkedin.com/in/kunal-joshi-68b3421bb">
-    <img src="https://img.shields.io/badge/Kunal Joshi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
  
-</div>
-  <div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
  _________________________________________________________________________________________________________________________________________________
