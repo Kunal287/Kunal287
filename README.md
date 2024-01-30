@@ -3,7 +3,7 @@
 </div>
      Hey 👋,This is Kunal Joshi
 <div>     
-      I am currently pursuing Bachelor's in Computer Science and Engineering from G.H.Raisoni Institute of Business Management Jalgaon
+      I have completed my Engineering from G.H.Raisoni Institute of Business Management, Jalgaon
 </div>  
    <div align=center>
   <a href="https://www.linkedin.com/in/kunal-joshi-68b3421bb">
@@ -20,20 +20,18 @@
  _________________________________________________________________________________________________________________________________________________
 
 ### About Me :
-:zap: In my free time, I solve problems on Codechef and read Books
+:zap: I love developing Android Apps and Reading Books
 - How to reach me
 - ![Gmail](https://img.shields.io/badge/kunaljoshi287@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - [![Linkedin Badge](https://img.shields.io/badge/-KunalJoshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-joshi-68b3421bb)
  _______________________________________________________________________________________________________________________________________________________
 
 ### Languages and Tools :
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-3670A0?style=for-the-badge&logo=kotlin&logoColor=#800080)
-![Javascript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/flutter-3670A0?style=for-the-badge&logo=flutter&logoColor=#800080)
 <!-- 
 **Kunal287/Kunal287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
