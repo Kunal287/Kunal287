@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/Kunal Joshi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://twitter.com/KunalJoshi287">
-    <img src="https://img.shields.io/badge/KunalJoshi287-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ 
 </div>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -24,6 +22,9 @@
 - How to reach me
 - ![Gmail](https://img.shields.io/badge/kunaljoshi287@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - [![Linkedin Badge](https://img.shields.io/badge/-KunalJoshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-joshi-68b3421bb)
+-  <a href="https://twitter.com/KunalJoshi287">
+    <img src="https://img.shields.io/badge/KunalJoshi287-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
  _______________________________________________________________________________________________________________________________________________________
 
 ### Languages and Tools :
